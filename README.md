@@ -50,6 +50,8 @@ Users should be able to:
 
 I learned nothing, but i put in practice my knowledge that i learned in other place. It was a good practice.
 
+Update*: With the feedback i learned that using html ``<picture>`` tag is better than using css ``background-image`` to put various image because accessibility. 
+
 ## Author
 
 - Website - [Emir Ekida Takayama Abrão](https://linktr.ee/emirng)
