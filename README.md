@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://www.frontendmentor.io/solutions/responsive-landing-page-css-hover-media-queries-1cgNBlnbde](https://www.frontendmentor.io/solutions/responsive-landing-page-css-hover-media-queries-1cgNBlnbde)
-- Live Site URL: [https://swaveng.github.io/product-preview-card-component-main/](https://swaveng.github.io/product-preview-card-component-main/)
+- Live Site URL: [https://ngemir.github.io/product-preview-card-component-main/](https://ngemir.github.io/product-preview-card-component-main/)
 
 ## My process
 
